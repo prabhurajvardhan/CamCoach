@@ -1,0 +1,9 @@
+{
+  "name": "Camera Coach AI",
+  "description": "A professional AI-powered camera assistant that provides real-time voice guidance for composition, lighting, and stability using advanced screen analysis and Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
